@@ -14,3 +14,10 @@ git地址：https://github.com/congxc/WeChartPullToRefreshListView<br>
 git地址：https://github.com/zhongjie-chen/wx-alphabetical-listview<br>
 预览:<br>
 <img src="https://github.com/zhongjie-chen/blog/raw/gh-pages/img/alphalistview.gif" width="25%" />
+
+
+项目名：wx-list-index<br>
+git地址：https://github.com/mehaotian/wx-list-index<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/feaadd6aea5f3f5244bd0a5bb22b5794def92d31/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f343437323831372d323638373866323163666566343232372e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="25%" />
+
