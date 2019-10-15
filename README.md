@@ -23,3 +23,6 @@
 
 ##  Sliding 相关:<br>
 ## [点击跳转 Sliding](https://github.com/ddwhan0123/Useful-Open-Source-Mini-Programs/blob/master/Sliding.md)
+
+##  Picker 相关:<br>
+## [点击跳转 Picker](https://github.com/ddwhan0123/Useful-Open-Source-Mini-Programs/blob/master/Picker.md)
